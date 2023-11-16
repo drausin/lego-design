@@ -1,0 +1,2 @@
+ruff:
+	ruff format .
